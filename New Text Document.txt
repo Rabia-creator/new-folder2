@@ -1,1 +1,3 @@
 this is the first file
+
+i want to check git revert commit hash
